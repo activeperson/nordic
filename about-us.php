@@ -25,7 +25,7 @@
   <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
   <link rel="stylesheet" href="stylesheets/dlmenu-1.2.1.custom.css">
   <link href="stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-  <link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -1432,9 +1432,9 @@
 
 
 
-                          <a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a
-                            href="/houses?Modern concept" target="_self">Modern Concept</a><br><a
-                            href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+                          <a href="/houses" target="_self">Modern Compact</a><br><a
+                            href="/houses" target="_self">Modern Concept</a><br><a
+                            href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -1452,7 +1452,7 @@
 
                           <a href="/majad/eriprojektid" target="_self"></a>
 
-                          <h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a
+                          <h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a
                                 request</a></span></h2>
 
 
@@ -1546,9 +1546,9 @@
 
 
 
-                      <a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a
-                        href="/houses?Modern concept" target="_self">Modern Concept</a><br><a
-                        href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+                      <a href="/houses" target="_self">Modern Compact</a><br><a
+                        href="/houses" target="_self">Modern Concept</a><br><a
+                        href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -1569,7 +1569,7 @@
 
                       <a href="/majad/eriprojektid" target="_self"></a>
 
-                      <h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a
+                      <h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a
                             request</a></span></h2>
 
 

@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+ <link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -35,7 +35,7 @@
 
 
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.Modernhouses.eu/houses/special-projects">
+<meta property="og:url" content="https://www.Modernhouses.eu/special-projects">
 <meta property="og:title" content="Special projects — Modern Houses">
 <meta property="og:site_name" content="Modern Houses">
 
@@ -174,7 +174,7 @@
             <div class="misc-item misc-languages languages">
                 
                     
-                    <a href="https://Modernhouses.eu/houses/special-projects"><div class="js-lang-title">English</div></a>
+                    <a href="https://Modernhouses.eu/special-projects"><div class="js-lang-title">English</div></a>
                 
                     
                     <a href="https://Modernhouses.eu/majad/eriprojektid"><div class="js-lang-title">eesti keel</div></a>
@@ -285,7 +285,7 @@ If none of our standardised homes is exactly what you’re looking for but you h
 <br></p>
                                 </div>
                                 <div class="details-form js-details-form js-sendto-google">
-                                    <form accept-charset="UTF-8" action="/houses/special-projects" enctype="multipart/form-data" id="form_157812" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                                    <form accept-charset="UTF-8" action="/special-projects" enctype="multipart/form-data" id="form_157812" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
 <input id="ticket_form_id" name="ticket[form_id]" type="hidden" value="157812" />
 <div class="form_area">
   <div style="display: none; visibility: hidden;">Email again: <input id="fci_ticket_email" name="ticket[email]" type="text" value="" /></div>
@@ -421,7 +421,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -439,7 +439,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 
@@ -515,7 +515,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -536,7 +536,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 
@@ -582,14 +582,14 @@ About us:</h3>
 </html>
 
 
- <script src="javascripts/jquery.js"></script>
-<script src="javascripts/bootstrap.min.js"></script>
-<script src="javascripts/velocity.min.js"></script>
-<script src="javascripts/modernizr-custom.js"></script>
-<script src="javascripts/jquery.viewport.mini.js"></script>
-<script src="javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
-<script src="javascripts/jquery.matchHeight.js"></script>
-<script src="javascripts/main.js?v=2"></script>
+ <script src="../javascripts/jquery.js"></script>
+<script src="../javascripts/bootstrap.min.js"></script>
+<script src="../javascripts/velocity.min.js"></script>
+<script src="../javascripts/modernizr-custom.js"></script>
+<script src="../javascripts/jquery.viewport.mini.js"></script>
+<script src="../javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
+<script src="../javascripts/jquery.matchHeight.js"></script>
+<script src="../javascripts/main.js?v=2"></script>
 <script src="//static.voog.com/libs/picturefill/1.4.64/picturefill.min.js"></script>
 
 
@@ -617,7 +617,7 @@ About us:</h3>
 </script>
 
 
-<script src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script src="../javascripts/jquery.voogAjaxForm.js"></script>
 <script type="text/javascript">
     $('.js-sendto-google form').voogAjaxForm({
         success: function() {
@@ -752,8 +752,8 @@ About us:</h3>
         //JS for generating the processtree
         var processTree = $.trim($('.js-custom-project-process').text()).split(">");
         $.each(processTree, function(i, processItem) {
-            $('.js-sidebar-desk-process').append('<div class="sidebar-process-item">'+ processItem +'<span class="sidebar-process-item-icon"></span></div>');
-            $('.js-sidebar-mob-process').append('<div class="sidebar-process-item">'+ processItem +'<span class="sidebar-process-item-icon"></span></div>');
+            $('.js-sidebar-desk-process').append('<div class="sidebar-process-item" style="height: 107px;">'+ processItem +'<span class="sidebar-process-item-icon"></span></div>');
+            $('.js-sidebar-mob-process').append('<div class="sidebar-process-item" style="height: 107px;">'+ processItem +'<span class="sidebar-process-item-icon"></span></div>');
         });
 
         //Give processsidebar height same as content

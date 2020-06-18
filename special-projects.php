@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html class="public" lang="en">
     <head prefix="og: http://ogp.me/ns#">
-        <!-- Core CSS file -->
-        <link rel="stylesheet" href="/stylesheets/photoswipe.css">
-        <link rel="stylesheet" href="stylesheets/default-skin.css">
-        
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
- 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -26,43 +20,24 @@
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
 <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
-<link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
- <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="stylesheets/dlmenu-1.2.1.custom.css">
+<link href="stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="stylesheets/style.css?v=1.0.0" media="screen" rel="stylesheet" type="text/css" />
 
 
 
-<title>References — Modern Houses</title>
+<title>Special projects — Modern Houses</title>
 
-
-
-
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.Modernhouses.eu/references">
-<meta property="og:title" content="References — Modern Houses">
-<meta property="og:site_name" content="Modern Houses">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <style>
-    .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna_huge.jpg');}
-    @media(min-width: 768px) {
-        .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna.jpg');}
-    }
+    .main-bg {
+            background-image: url('images/bg-main.jpg');
+        }
+
+        @media(min-width: 768px) {
+            .main-bg {
+                background-image: url('images/bg-main.jpg');
+            }
+        }
 </style>
 
 
@@ -82,11 +57,11 @@
 		<ul class="mob-menu-inner-list">
 			<li class="mob-menu-close js-mob-menu-close"></li>
 			
-				<li class="mob-menu-item ">
+				<li class="mob-menu-item  active">
 					<a class="mob-menu-link" href="/houses">Houses</a>
 				</li>
 			
-				<li class="mob-menu-item  active">
+				<li class="mob-menu-item ">
 					<a class="mob-menu-link" href="/references">References</a>
 				</li>
 			
@@ -102,6 +77,15 @@
 	</div>
 </div>
         <div class="main-bg darkened"></div>
+            <div class="hidden">
+                
+            </div>
+            
+
+            <div class="hidden">
+                
+                
+            </div>
         <div class="container-extended">
             <div class="main-content">
                 <header class="header-content">
@@ -114,32 +98,32 @@
 		    <button class="languages-dropdown-button">
 		        <div class="js-lang-title">English</div>
 		    </button>
-		    <ul class="languages-dropdown-menu">
+		    <!-- <ul class="languages-dropdown-menu">
 		        
 		            
 		            
 		        
 		            
 		            
-		                <li><a href="https://Modernhouses.eu/projektid"><div class="js-lang-title">eesti keel</div></a></li>
+		                <li><a href="https://Modernhouses.eu/majad/eriprojektid"><div class="js-lang-title">eesti keel</div></a></li>
 		            
 		        
 		            
 		            
-		                <li><a href="https://Modernhouses.no/referanser"><div class="js-lang-title">Norsk</div></a></li>
+		                <li><a href="https://Modernhouses.no/hytter-og-hus/til-totalentreprenor"><div class="js-lang-title">Norsk</div></a></li>
 		            
 		        
 		            
 		            
-		                <li><a href="https://Modernhouses.eu/projekte"><div class="js-lang-title">Deutsch</div></a></li>
+		                <li><a href="https://Modernhouses.eu/hauser/sonderprojekte"><div class="js-lang-title">Deutsch</div></a></li>
 		            
 		        
 		            
 		            
-		                <li><a href="https://Modernhouses.eu/utforda-arbeten"><div class="js-lang-title">Swedish</div></a></li>
+		                <li><a href="https://Modernhouses.eu/hus/entreprenorer-och-fastighetsutvecklare"><div class="js-lang-title">Swedish</div></a></li>
 		            
 		        
-		    </ul>
+		    </ul> -->
 		</div>
 	</div>
 	<div class="header-nav-mob-right">
@@ -165,36 +149,36 @@
 			<div class="col-sm-8 hidden-xs">
 				<div class="header-nav">
     <div class="header-nav-top clearfix">
-        <div class="misc">
+        <!-- <div class="misc">
             
             <div class="misc-item misc-languages languages">
                 
                     
-                    <a href="https://Modernhouses.eu/references"><div class="js-lang-title">English</div></a>
+                    <a href="https://Modernhouses.eu/special-projects"><div class="js-lang-title">English</div></a>
                 
                     
-                    <a href="https://Modernhouses.eu/projektid"><div class="js-lang-title">eesti keel</div></a>
+                    <a href="https://Modernhouses.eu/majad/eriprojektid"><div class="js-lang-title">eesti keel</div></a>
                 
                     
-                    <a href="https://Modernhouses.no/referanser"><div class="js-lang-title">Norsk</div></a>
+                    <a href="https://Modernhouses.no/hytter-og-hus/til-totalentreprenor"><div class="js-lang-title">Norsk</div></a>
                 
                     
-                    <a href="https://Modernhouses.eu/projekte"><div class="js-lang-title">Deutsch</div></a>
+                    <a href="https://Modernhouses.eu/hauser/sonderprojekte"><div class="js-lang-title">Deutsch</div></a>
                 
                     
-                    <a href="https://Modernhouses.eu/utforda-arbeten"><div class="js-lang-title">Swedish</div></a>
+                    <a href="https://Modernhouses.eu/hus/entreprenorer-och-fastighetsutvecklare"><div class="js-lang-title">Swedish</div></a>
                 
             </div>
-        </div>
+        </div> -->
     </div>
     <div class="header-nav-bottom">
         <ul class="main-navigation">
             
-                <li class="menu-item">
+                <li class="menu-item active">
                     <a class="menu-link" href="/houses">Houses</a>
                 </li>
             
-                <li class="menu-item active">
+                <li class="menu-item">
                     <a class="menu-link" href="/references">References</a>
                 </li>
             
@@ -216,158 +200,126 @@
 	</div>
 </header>
 
-                <div class="main-content-inner main-content-inner-processed no-tree js-main-content-inner">
-                    <div class="main-content-inner-sidebar processtree">
+                <div class="main-content-inner main-content-inner-processed  js-main-content-inner">
+                    <div class="main-content-inner-sidebar processtree js-sidebar">
                         <div class="sidebar-process-wrap js-sidebar-process-desk">
-                            <span class="sidebar-process-wrap-heading">Production process</span>
-                            <div class="sidebar-process">
-                            
-                            
-                            </div>
+                            <span class="sidebar-process-wrap-heading">
+                                Production process
+                            </span>
+                            <div class="sidebar-process js-sidebar-desk-process"></div>
                         </div>
                     </div>
                     <div class="main-content-inner-single">
                         <div class="row row-padding">
                             <div class="col-sm-8 col-sm-offset-4 bg-white">
                                 <h1 class="main-heading basic">
-                                    Modern Compact Tallinn (Estonia)
+                                    Special projects
                                 </h1>
                             </div>
                         </div>
                     </div>
 
                     <div class="main-content-inner-items main-content-inner-items-grayed">
-                        <div class="row bg-white padding-bottom">
-                            <div class="col-sm-5 col-sm-push-7 col-md-4 col-md-push-8">
-                                <div class="single-house-details right-content-padding js-right-content details">
+                        <div class="row padding-bottom bg-white">
+                            <div class="col-sm-7 col-md-8 col-extra-padding">
+                                <div class="user-added-content user-added-content-padding">
                                     
-                                    <div class="details-intro">
-                                        Photographer Jakob Meier
-                                    </div>
-                                    <div class="user-added-content user-added-content-padding-right user-added-content-padding-top">
-                                        
+
+
+
+
+
+
+
+
+
+<p>If You are an <b>entrepreneur, real estate developer or general contractor</b>, You are in the right place.<br><br>We can help you with faster implementation of projects, high quality and competitive prices.<br><br>Based on your drawings, we design, produce, deliver and install the building. When the foundation is ready from you, we will deliver you the building as an "finished on the outside" solution. The supply includes external lining, exterior doors, windows, roof cover and rain gutters.&nbsp;</p><p>For the interior, we offer either a ready-made solution for specific work (electricity, heating, water, ventilation) or ready for puttying and painting.</p><p><br></p><h3><span style="color: inherit;">How one of our houses gets built</span></h3><p><b>Enquiry</b></p><ul><li>Choose the Modern Houses home you like best or send us your own designs.<br></li><li>Choose how ‘ready’ you want the house to be:<br></li></ul><p>A: Weather-proof shell a.k.a. the ‘Man with the golden hands’ option<br></p><ul><li>External walls without cladding; additional framework inside (without additional insulation wool or gypsum boards)<br></li><li>Load-bearing internal wall framework<br></li><li>Non-bearing internal walls and internal wall materials not included<br></li><li>Roof covering not included<br></li></ul><p>B: Fully completed exterior a.k.a. the ‘Man on the inside’ option</p><ul><li>External walls fully finished on the outside; additional framework inside (without additional insulation wool or gypsum boards)<br></li><li>Internal wall framework<br></li><li>Roof covering<br></li></ul><p><b>Offer</b></p><ul><li>We’ll make you an offer within two weeks.<br></li></ul><p><b>Contract</b></p><ul><li>If you’re happy with our offer, we then sign a contract.<br></li></ul><p><b>Design</b></p><ul><li>Plans for approval – main floor plans, key assemblies, colour scheme for finishing<br></li><li>Production and assembly plans<br></li></ul><p><b>Production</b></p><ul><li>Production in our factory<br></li></ul><p><b>Transport</b></p><ul><li>Transport to the construction site<br></li></ul><p><b>Erection</b></p><ul><li>The building is erected to the agreed state of readiness.<br></li></ul>
+
+
+
+
+
+
+
+
+
+
+                                </div>
+                                <div class="visible-xs">
+                                    <button class=" js-details-mob-process-button details-mob-process-button main-button gray">
+                                        Vaata meie tootmisprotsessi
+                                    </button>
+                                    <div class="details-mob-process-tree js-details-mob-process-tree">
+                                        <div class="sidebar-process-wrap">
+                                            <div class="sidebar-process js-sidebar-mob-process"></div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-7 col-sm-pull-5 col-md-8 col-md-pull-4">
-                                
-    <div class="js-gallery whole-gallery-container hidden-xs">
-        <div class="gallery-video-lightbox js-gallery-video-lightbox"><div class="pswp__button pswp__button--close js-close-video-lightbox"></div></div>
-        <div class="js-gallery-images">
-            <!-- images will be added with javascript -->
-        </div>
+                            <div class="col-sm-5 col-md-4 right-content-padding js-right-content">
+                                <div class="details-heading details-heading-top">For entrepreneurs and real estate developers</div>
+                                <div class="user-added-content">
+                                    <p>
 
-        <div class="gallery-video-container">
-            <div class="js-gallery-video-thumbnail gallery-video-thumbnail">
-                <div class="gallery-video-inner">
-                    <div class="gallery-video-thumbnail-triangle-outher"></div>
-                    <div class="gallery-video-txt">
-                        open video
-                    </div>
-                </div>
-            </div>
-            <div class="js-gallery-video gallery-video">
-                <iframe width="100%" height="100%" allowfullscreen="true" scrolling="no" frameborder="0"></iframe>
-            </div>
-        </div>
-    </div>
-
-    <div class="js-gallery-mob whole-gallery-container visible-xs">
-        <div class="gallery-video-lightbox js-gallery-video-lightbox"><div class="pswp__button pswp__button--close js-close-video-lightbox"></div></div>
-        <div class="js-gallery-images">
-            <!-- images will be added with javascript -->
-        </div>
-
-        <div class="gallery-video-container">
-            <div class="js-gallery-video-thumbnail gallery-video-thumbnail">
-                <div class="gallery-video-thumbnail-triangle-outher"></div>
-            </div>
-            <div class="js-gallery-video gallery-video">
-                <iframe width="100%" height="100%" allowfullscreen="true" scrolling="no" frameborder="0"></iframe>
-            </div>
-        </div>
-    </div>
-
-
-    <!-- Root element of PhotoSwipe. Must have class pswp. -->
-    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-        <!-- Background of PhotoSwipe.
-             It's a separate element, as animating opacity is faster than rgba(). -->
-        <div class="pswp__bg gallery-overlay"></div>
-        <!-- Slides wrapper with overflow:hidden. -->
-        <div class="pswp__scroll-wrap">
-            <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
-            <div class="pswp__container">
-                <!-- don't modify these 3 pswp__item elements, data is added later on -->
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-            </div>
-            <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
-            <div class="pswp__ui pswp__ui--hidden">
-                <div class="pswp__top-bar gallery-top-bar">
-                    <!--  Controls are self-explanatory. Order can be changed. -->
-                    <button class="pswp__button pswp__button--close gallery-close-overlay" title="Close (Esc)"></button>
-                </div>
-
-                <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-                </button>
-
-                <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-                </button>
-            </div>
-        </div>
-    </div>
-
-
-                                
-                                
-                                
-                                <div class="details-form-wrap visible-xs">
-                                    <h2 class="details-heading">Send a request</h2>
-                                    <div class="details-form js-details-form js-sendto-google">
-                                        <form accept-charset="UTF-8" action="/references" id="form_157842" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
-<input id="ticket_form_id" name="ticket[form_id]" type="hidden" value="157842" />
+If none of our standardised homes is exactly what you’re looking for but you have your own plans to hand (external views, cross-sections, floorplans et al.), you’ve come to the right place. Send us your project and let’s work together to find a way to turn your ideas into reality.
+<br></p>
+                                </div>
+                                <div class="details-form js-details-form js-sendto-google">
+                                    <form accept-charset="UTF-8" action="/special-projects" enctype="multipart/form-data" id="form_157812" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<input id="ticket_form_id" name="ticket[form_id]" type="hidden" value="157812" />
 <div class="form_area">
   <div style="display: none; visibility: hidden;">Email again: <input id="fci_ticket_email" name="ticket[email]" type="text" value="" /></div>
 <div class="form_fields">
 <div class="form_field form_field_required details-form-group js-form-name ">
   
-    <label class="form_field_label" for="field_field_1471867410421">Name</label>
-    <input class="form_field_textfield form_field_size_medium" id="field_field_1471867410421" name="ticket[data][field_1471867410421]" type="text" value="" />
+    <label class="form_field_label" for="field_field_1470139679921">Name</label>
+    <input class="form_field_textfield form_field_size_medium" id="field_field_1470139679921" name="ticket[data][field_1470139679921]" type="text" value="" />
     
 </div><div class="form_field form_field_required details-form-group js-form-email ">
   
-    <label class="form_field_label" for="field_field_1471867410422">E-mail</label>
-    <input class="form_field_textfield form_field_size_medium" id="field_field_1471867410422" name="ticket[data][field_1471867410422]" type="email" value="" />
+    <label class="form_field_label" for="field_field_1470139679922">E-mail</label>
+    <input class="form_field_textfield form_field_size_medium" id="field_field_1470139679922" name="ticket[data][field_1470139679922]" type="email" value="" />
     
-</div><div class="form_field form_field_required details-form-group js-form-comments ">
+</div><div class="form_field  details-form-group js-numbers js-form-phone ">
   
-    <label class="form_field_label" for="field_field_1471867722608">Comments</label>
-    <input class="form_field_textfield form_field_size_medium" id="field_field_1471867722608" name="ticket[data][field_1471867722608]" type="text" value="" />
+    <label class="form_field_label" for="field_field_1470139717587">Phone</label>
+    <input class="form_field_textfield form_field_size_medium" id="field_field_1470139717587" name="ticket[data][field_1470139717587]" type="text" value="" />
     
-</div><div class="form_field  js-house-url hidden ">
+</div><div class="form_field  details-form-group js-form-comments ">
   
-    <label class="form_field_label" for="field_field_1471871626591">Kirjuta välja nimi siia</label>
-    <input class="form_field_textfield form_field_size_medium" id="field_field_1471871626591" name="ticket[data][field_1471871626591]" type="text" value="" />
+    <label class="form_field_label" for="field_field_1470139749259">Message</label>
+    <input class="form_field_textfield form_field_size_medium" id="field_field_1470139749259" name="ticket[data][field_1470139749259]" type="text" value="" />
+    
+</div><div class="form_field  details-form-upload ">
+  
+    <label class="form_field_label" for="field_field_1470139779681">Choose file(s)</label>
+    <input class="form_field_file " id="field_field_1470139779681" name="ticket[data][field_1470139779681]" type="file" />
     
 </div></div>
 
-<script>function onSubmitRc_form_157842(token) {vgReCaptchaDispatch("form_157842");}</script>
+<script>function onSubmitRc_form_157812(token) {vgReCaptchaDispatch("form_157812");}</script>
 <div class="form_submit">
-  <input class="form_submit_input g-recaptcha" data-action="vg_form" data-callback="onSubmitRc_form_157842" data-sitekey="6LfuuQAVAAAAAN7sQtqgWu6Q6kt_AXbEllVWOrHk" name="commit" type="submit" value="Send" />
+  <input class="form_submit_input g-recaptcha" data-action="vg_form" data-callback="onSubmitRc_form_157812" data-sitekey="6LfuuQAVAAAAAN7sQtqgWu6Q6kt_AXbEllVWOrHk" name="commit" type="submit" value="Send" />
 </div>
 </div>
 </form>
+                                </div>
+                                <div class="sidebar-process-input hidden">
+                                    <div><b>To generate a processtree, add processes in the example: process1>process2>process3>process4 etc...</b></div>
+                                    <div class="js-custom-project-process">
+                                        Enquiry&gt;Offer&gt;Technical and architectural drawings&gt;Signing a contract&gt;Production, transport and assembly&gt;READY!
                                     </div>
                                 </div>
-                                
                             </div>
                         </div>
 
                     </div>
                 </div>
-
+                <!-- <div class="main-content-bottom main-content-inner-single sidepadding">
+                    <div class="row">
+                        <div class="col-sm-8 col-extra-padding bg-white main-content-bottom-empty"></div>
+                    </div>
+                </div> -->
                 <footer class="footer sidepadding">
 	<div class="row footer-cols-wrap">
 		<div class="col-sm-5 col-sm-push-8 js-footer-col bg-white-mob hidden-xs">
@@ -611,12 +563,7 @@ About us:</h3>
 </html>
 
 
-<script type="text/javascript">
-    isReady = false;
-    modelName = true;
-</script>
-
- <script src="javascripts/jquery.js"></script>
+<script src="javascripts/jquery.js"></script>
 <script src="javascripts/bootstrap.min.js"></script>
 <script src="javascripts/velocity.min.js"></script>
 <script src="javascripts/modernizr-custom.js"></script>
@@ -642,13 +589,39 @@ About us:</h3>
 </script>
 
 
- 
+<script type="text/javascript">
+var _ews = _ews || {_account: 'A-394069-1', _tzo: '7200'};
+
+(function() {
+  var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+  s.src = '//stats.voog.com/tracker.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+})();
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWRX2FJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83047085-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 
-<!-- Core JS file --> <script src="javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="javascripts/photoswipe-ui-default.min.js"></script> <script src="javascripts/custom-photoswipe.js"></script>
+<script type="text/javascript">
+    modelName = false;
+    customProject = true;
+</script>
 
 
-<script src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script src="javascripts/jquery.voogAjaxForm.js"></script>
 <script type="text/javascript">
     $('.js-sendto-google form').voogAjaxForm({
         success: function() {
@@ -663,7 +636,7 @@ About us:</h3>
             $('.form_error').closest('body').find('.contact-main-button-wrap').addClass('hidden');
 
             // Google forms post
-            var formType = 'Tehtud tööd';
+            var formType = 'Eriprojektid';
             var name = '';
             var email = '';
             var comments = '';
@@ -676,9 +649,9 @@ About us:</h3>
 
 
             if (modelName === true || customProject === true) {
-                houseModel = 'Modern Compact Tallinn (Estonia)';
+                houseModel = '';
                 if (!houseModel) {
-                    houseModel = 'References';
+                    houseModel = 'Special projects';
                 }
             }
 
@@ -704,7 +677,7 @@ About us:</h3>
             $(sentFormNotice).empty().append('<div class="form-success-icon"></div><div class="form-success-txt"><span>Message sent</span>You will be contacted shortly</div>');
             sendGoogle(formType, email, name, comments, phone, houseModel, buildingTime, queryResponseType);
 
-            if ('2042054' === '2146461' || $('.js-autoreply').data('autoreply') === true) {
+            if ('2041597' === '2146461' || $('.js-autoreply').data('autoreply') === true) {
                 sendEmail({ email: email, housetypehtml: houseHTML, mailSubject: mailSubject, mailFilesString: mailFilesString});
             }
         },
@@ -764,231 +737,41 @@ About us:</h3>
 
     <script type="text/javascript">
 
-        $(document).ready(function(){
-            var $sidebarHeight = $('.js-right-content').height() + $('.main-content-inner-single').height();
-            if ($sidebarHeight < 650 && $(window).width() > 768) {
-                $sidebarHeight = 650 + $('.main-content-inner-single').height();
-                $('.js-right-content').height(650);
-            }
-            $('.js-sidebar-process-desk').css('height' , $sidebarHeight);
-            var $innerSidebarHeight = $sidebarHeight - $('.sidebar-process-wrap-heading').outerHeight(true) - 120; /*15px padding + extra 65px for more space*/
-            $('.js-sidebar-process-desk .sidebar-process').height($innerSidebarHeight);
-            var $desktopItem = $('.js-sidebar-process-desk .sidebar-process-item');
-            var $itemsHeight = $innerSidebarHeight / ($desktopItem.length - 1); /* The last item does not have height */
-            $desktopItem.each(function(i, item){
-                $(item).height($itemsHeight);
-            });
-
-            $desktopItem.last().css('height', 'auto');
-        });
-
-        $(window).on('resize', function(){
-            if($(window).width() < 768) {
-                $('.js-right-content').removeAttr('style');
-            } else {
-                var $sidebarHeight = $('.js-right-content').height() + $('.main-content-inner-single').height();
-                if ($sidebarHeight < 650 && $(window).width() > 768) {
-                    $sidebarHeight = 650 + $('.main-content-inner-single').height();
-                    $('.js-right-content').height(650);
-                }
-                $('.js-sidebar-process-desk').css('height' , $sidebarHeight);
-                var $innerSidebarHeight = $sidebarHeight - $('.sidebar-proceöss-wrap-heading').outerHeight(true) - 218; /*15px padding + extra 65px for more space*/
-                $('.js-sidebar-process-desk .sidebar-process').height($innerSidebarHeight);
-                var $desktopItem = $('.js-sidebar-process-desk .sidebar-process-item');
-                var $itemsHeight = $innerSidebarHeight / ($desktopItem.length - 1); /* The last item does not have height */
-                $desktopItem.each(function(i, item){
-                    $(item).height($itemsHeight);
-                });
-
-                $desktopItem.last().css('height', 'auto');
-            }
-        });
 
         //Form animations
         formAnimations();
 
-        $('.js-house-url').find('input').val(window.location.href);
-        $('.js-house-url').closest('form').attr('action', window.location.pathname);
-
-        var items = [];
-
-        // add images
-        $.ajax({
-            url: '/admin/api/elements/4805092/contents?name=house_gallery&content_type=gallery',
-            success: function(contentAreas){
-                if (contentAreas.length) {
-                    $.each(contentAreas, function(i, contentArea){
-                        if (contentArea.gallery.assets.length) {
-                            $.each(contentArea.gallery.assets, function(j, image){
-                                var imageSizes = {};
-                                if (image.sizes.length === 0) {
-                                    imageSizes = {
-                                        fullSize: {
-                                            url: image.public_url,
-                                            width: image.width,
-                                            height: image.height
-                                        },
-                                        thumbnail: {
-                                            url: image.public_url,
-                                            width: image.width,
-                                            height: image.height
-                                        }
-                                    };
-                                } else{
-                                    var thumbnailDesiredWidth = (j !== 0 ? 600 : 1280);
-                                    var suitableThumbnail = {};
-                                    if (thumbnailDesiredWidth > image.width) {
-                                        suitableThumbnail = image;
-                                    } else{
-                                        var imageSizesReversed = image.sizes.slice().reverse();
-
-                                        for (var k = 0; k < imageSizesReversed.length; k++) {
-                                            if (imageSizesReversed[k].width <= thumbnailDesiredWidth) {
-                                                suitableThumbnail = imageSizesReversed[k];
-                                            } else{
-                                                break;
-                                            }
-                                        }
-                                    }
-                                    imageSizes = {
-                                        fullSize: {
-                                            url: image.public_url,
-                                            width: image.width,
-                                            height: image.height
-                                        },
-                                        thumbnail: {
-                                            url: suitableThumbnail.public_url,
-                                            width: suitableThumbnail.width,
-                                            height: suitableThumbnail.height
-                                        }
-                                    };
-
-                                }
-
-                                items.push(imageSizes);
-                            });
-                        }
-                    });
-                }
-                createGallery('js-gallery', 5);
-                createGallery('js-gallery-mob', 3);
-                isReady = true;
-                objectFitFallback();
-            },
-        });
-
-        // add video
-        var clickedVideo = '';
-        if(clickedVideo.indexOf('youtu') !== -1) {
-            var videoIds = clickedVideo.split('?')[1].split('&');
-
-            for (var i = 0; i < videoIds.length; i++) {
-                if (videoIds[i].substring(0, 2) === 'v=') {
-                    youtubeVideoId = videoIds[i].split('=')[1];
-                    break;
-                }
+        var $formLabel = $('.details-form-upload').find('label');
+        var $formInput = $('.details-form-upload').find('input');
+        $formInput.on('change', function () {
+            $formLabel.empty().text($formInput.val().replace(/^.*\\/, ""));
+            if ($formInput.val() !== '' && !$('.details-form-upload').hasClass('active')) {
+                $('.details-form-upload').addClass('active');
+            }else{
+                $('.details-form-upload').removeClass('active');
+                $formLabel.text('Choose file');
             }
-            clickedVideo = "//youtube.com/embed/" + youtubeVideoId;
-        } else if(clickedVideo.indexOf('vimeo') !== -1) {
-            var urlPieces = clickedVideo.split('/');
-            clickedVideo = "//player.vimeo.com/video/" + urlPieces[urlPieces.length - 1];
-        }
-        if (clickedVideo) {
-            $('.js-gallery-video-thumbnail').addClass('active');
-            $('.js-gallery-video').find('iframe').data('src', clickedVideo );
-        }
-
-        $('body').on('click', '.js-gallery-video-lightbox', function(){
-            $('.js-gallery-video').removeClass('active');
-            $('.js-gallery-video-lightbox').removeClass('active');
-            $('.js-gallery-video').find('iframe').attr('src', '' );
         });
 
-        // pagination clicks
-        $('body').on('click', '.js-gallery-page', function(){
-            var page = $(this).data('page');
-            $('.js-gallery-pages').css({transform: 'translateX(' + ((page - 1) * -100) + '%)'});
-
-            $('.js-gallery-page').removeClass('active');
-            $(this).addClass('active');
+        //JS for generating the processtree
+        var processTree = $.trim($('.js-custom-project-process').text()).split(">");
+        $.each(processTree, function(i, processItem) {
+            $('.js-sidebar-desk-process').append('<div class="sidebar-process-item">'+ processItem +'<span class="sidebar-process-item-icon"></span></div>');
+            $('.js-sidebar-mob-process').append('<div class="sidebar-process-item">'+ processItem +'<span class="sidebar-process-item-icon"></span></div>');
         });
 
-        // lightbox clicks
-        $('body').on('click', '.js-gallery-video-thumbnail', function(){
-            var $iframe = $('.js-gallery-video').find('iframe');
-            $('.js-gallery-video').addClass('active');
-            $('.js-gallery-video-lightbox').addClass('active');
-            $iframe.attr('src', $iframe.data('src'));
+        //Give processsidebar height same as content
+        var $sidebarHeight = $('.js-right-content').height() + $('.main-content-inner-single').height();
+        $('.js-sidebar-process-desk').css('height' , $sidebarHeight);
+        var $innerSidebarHeight = $sidebarHeight - $('.sidebar-process-wrap-heading').outerHeight(true) - 80; /*15px padding + extra 65px for more space*/
+        $('.js-sidebar-process-desk .sidebar-process').height($innerSidebarHeight);
+        var $desktopItem = $('.js-sidebar-process-desk .sidebar-process-item');
+        var $itemsHeight = $innerSidebarHeight / ($desktopItem.length - 1); /* The last item does not have height */
+        $desktopItem.each(function(i, item){
+            $(item).height($itemsHeight);
         });
 
-        //A video X button just incase
-        $('body').on('click', '.js-gallery-video-lightbox', function(){
-            $('.js-gallery-video-lightbox').removeClass('active');
-        });
+        $desktopItem.last().css('height', 'auto');
 
-        function createGallery(parentClass, perPage){
-            var imagesClass = '.' + parentClass + ' .js-gallery-images';
-            if (items.length) {
-                var galleryHtml = '';
-                for (var i = 0; i < items.length; i++) {
-                    if (i === 1) {
-                        galleryHtml +=
-                            '<div class="gallery-pages' + (clickedVideo ? ' has-video' : '') + '">' +
-                                '<div class="js-gallery-pages gallery-images">'
-                        ;
-                    }
-
-                    if ($(window).width() >= 768) {
-                        galleryHtml +=
-                            '<a class="js-gallery-image object-fit-cover gallery-image' + (i === 0 ? ' first' : '') + '" href="' + items[i].fullSize.url + '" data-size="' + items[i].fullSize.width + 'x' + items[i].fullSize.height + '">' +
-                                '<div class="gallery-image-abs">' +
-                                    '<img src="' + items[i].thumbnail.url + '" />'  +
-                                    '<div class="gallery-image-hover-bg"></div>' +
-                                '</div>' +
-                            '</a>'
-                        ;
-                    } else {
-                       galleryHtml +=
-                           '<a class="js-gallery-image object-fit-cover gallery-image' + (i === 0 ? ' first' : '') + '" href="' + items[i].thumbnail.url + '" data-size="' + items[i].thumbnail.width + 'x' + items[i].thumbnail.height + '">' +
-                               '<div class="gallery-image-abs">' +
-                                   '<img src="' + items[i].thumbnail.url + '" />'  +
-                                   '<div class="gallery-image-hover-bg"></div>' +
-                               '</div>' +
-                           '</a>'
-                       ;
-                    }
-
-                    if (i === items.length - 1 && i !== 0) {
-                        galleryHtml +=
-                                '</div>' +
-                            '</div>'
-                        ;
-                    }
-                }
-                $(imagesClass).append(galleryHtml);
-
-                // execute photoswipe
-                initPhotoSwipeFromDOM('.' + parentClass);
-                createGalleryPagination(parentClass, perPage);
-            }
-        }
-
-        function createGalleryPagination(parentClass, perPage) {
-            // var perPage = 3;
-            if (!clickedVideo) {
-                perPage++;
-            }
-            var pages = Math.ceil($('.' + parentClass + ' .js-gallery-pages .js-gallery-image').length / perPage);
-
-            var paginationHtml = '<ul class="gallery-pagination">';
-            if (pages > 1) {
-                for (var i = 0; i < pages; i++) {
-                    paginationHtml += '<li class="gallery-pagination-button js-gallery-page' + (i === 0 ? ' active' : '') + '" data-page="' + (i + 1) + '"></li>';
-                }
-            }
-            paginationHtml += '</ul>';
-
-            $('.' + parentClass).append(paginationHtml);
-        }
     </script>
 

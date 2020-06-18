@@ -912,10 +912,10 @@
 
 
 
-                                                    <a href="/houses?Modern compact" target="_self">Modern
-                                                        Compact</a><br><a href="/houses?Modern concept"
+                                                    <a href="/houses" target="_self">Modern
+                                                        Compact</a><br><a href="/houses"
                                                         target="_self">Modern Concept</a><br><a
-                                                        href="/houses?standard houses"
+                                                        href="/houses"
                                                         target="_self">Standard&nbsp;Houses</a><br>
 
 
@@ -935,7 +935,7 @@
                                                     <a href="/majad/eriprojektid" target="_self"></a>
 
                                                     <h2><span style="font-size: 14px;"><a
-                                                                href="/houses/special-projects" target="_self">Send a
+                                                                href="/special-projects" target="_self">Send a
                                                                 request</a></span></h2>
 
 
@@ -1038,9 +1038,9 @@
 
 
 
-                                            <a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a
-                                                href="/houses?Modern concept" target="_self">Modern Concept</a><br><a
-                                                href="/houses?standard houses"
+                                            <a href="/houses" target="_self">Modern Compact</a><br><a
+                                                href="/houses" target="_self">Modern Concept</a><br><a
+                                                href="/houses"
                                                 target="_self">Standard&nbsp;Houses</a><br>
 
 
@@ -1062,7 +1062,7 @@
 
                                             <a href="/majad/eriprojektid" target="_self"></a>
 
-                                            <h2><span style="font-size: 14px;"><a href="/houses/special-projects"
+                                            <h2><span style="font-size: 14px;"><a href="/special-projects"
                                                         target="_self">Send a request</a></span></h2>
 
 

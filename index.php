@@ -33,29 +33,6 @@
     <title>Modern Houses</title>
 
 
-
-
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.Modernhouses.eu/en">
-    <meta property="og:title" content="Modern Houses">
-    <meta property="og:site_name" content="Modern Houses">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <style>
         .main-bg {
             background-image: url('images/bg-main.jpg');
@@ -384,10 +361,10 @@
 
 
 
-                                                        <a href="/houses?Modern compact" target="_self">Modern
-                                                            Compact</a><br><a href="/houses?Modern concept"
+                                                        <a href="/houses" target="_self">Modern
+                                                            Compact</a><br><a href="/houses"
                                                             target="_self">Modern Concept</a><br><a
-                                                            href="/houses?standard houses"
+                                                            href="/houses"
                                                             target="_self">Standard&nbsp;Houses</a><br>
 
 
@@ -407,7 +384,7 @@
                                                         <a href="/majad/eriprojektid" target="_self"></a>
 
                                                         <h2><span style="font-size: 14px;"><a
-                                                                    href="/houses/special-projects" target="_self">Send
+                                                                    href="/special-projects" target="_self">Send
                                                                     a request</a></span></h2>
 
 
@@ -508,9 +485,9 @@
 
 
 
-                                                <a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a
-                                                    href="/houses?Modern concept" target="_self">Modern
-                                                    Concept</a><br><a href="/houses?standard houses"
+                                                <a href="/houses" target="_self">Modern Compact</a><br><a
+                                                    href="/houses" target="_self">Modern
+                                                    Concept</a><br><a href="/houses"
                                                     target="_self">Standard&nbsp;Houses</a><br>
 
 
@@ -532,7 +509,7 @@
 
                                                 <a href="/majad/eriprojektid" target="_self"></a>
 
-                                                <h2><span style="font-size: 14px;"><a href="/houses/special-projects"
+                                                <h2><span style="font-size: 14px;"><a href="/special-projects"
                                                             target="_self">Send a request</a></span></h2>
 
 
@@ -595,9 +572,9 @@
 
 
 
-                                        <a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a
-                                            href="/houses?Modern concept" target="_self">Modern Concept</a><br><a
-                                            href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+                                        <a href="/houses" target="_self">Modern Compact</a><br><a
+                                            href="/houses" target="_self">Modern Concept</a><br><a
+                                            href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -615,7 +592,7 @@
 
                                         <a href="/majad/eriprojektid" target="_self"></a>
 
-                                        <h2><span style="font-size: 14px;"><a href="/houses/special-projects"
+                                        <h2><span style="font-size: 14px;"><a href="/special-projects"
                                                     target="_self">Send a request</a></span></h2>
 
 

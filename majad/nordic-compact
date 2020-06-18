@@ -24,10 +24,10 @@
 <!--[if lt IE 9]><link href="/stylesheets/ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
-<link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
+<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 

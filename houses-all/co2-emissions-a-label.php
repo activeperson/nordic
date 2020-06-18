@@ -2,12 +2,12 @@
 <html class="public" lang="en">
     <head prefix="og: http://ogp.me/ns#">
         <!-- Core CSS file -->
-         <link rel="stylesheet" href="stylesheets/photoswipe.css">
+         <link rel="stylesheet" href="../stylesheets/photoswipe.css">
         <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
              In the folder of skin CSS file there are also:
              - .png and .svg icons sprite,
              - preloader.gif (for browsers that do not support CSS animations) -->
-        <link rel="stylesheet" href="stylesheets/default-skin.css">
+        <link rel="stylesheet" href="../stylesheets/default-skin.css">
         
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
  
@@ -32,7 +32,7 @@
 <link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+ <link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -552,7 +552,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -570,7 +570,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 
@@ -646,7 +646,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -667,7 +667,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 
@@ -718,14 +718,14 @@ About us:</h3>
     modelName = true;
 </script>
 
-<script src="javascripts/jquery.js"></script>
-<script src="javascripts/bootstrap.min.js"></script>
-<script src="javascripts/velocity.min.js"></script>
-<script src="javascripts/modernizr-custom.js"></script>
-<script src="javascripts/jquery.viewport.mini.js"></script>
-<script src="javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
-<script src="javascripts/jquery.matchHeight.js"></script>
-<script src="javascripts/main.js?v=2"></script>
+<script src="../javascripts/jquery.js"></script>
+<script src="../javascripts/bootstrap.min.js"></script>
+<script src="../javascripts/velocity.min.js"></script>
+<script src="../javascripts/modernizr-custom.js"></script>
+<script src="../javascripts/jquery.viewport.mini.js"></script>
+<script src="../javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
+<script src="../javascripts/jquery.matchHeight.js"></script>
+<script src="../javascripts/main.js?v=2"></script>
 <script src="//static.voog.com/libs/picturefill/1.4.64/picturefill.min.js"></script>
 
 
@@ -747,10 +747,10 @@ About us:</h3>
  
 
 
-<!-- Core JS file --> <script src="javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="javascripts/photoswipe-ui-default.min.js"></script> <script src="javascripts/custom-photoswipe.js"></script>
+<!-- Core JS file --> <script src="../javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="../javascripts/photoswipe-ui-default.min.js"></script> <script src="../javascripts/custom-photoswipe.js"></script>
 
 
-<script src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script src="../javascripts/jquery.voogAjaxForm.js"></script>
 <script type="text/javascript">
     $('.js-sendto-google form').voogAjaxForm({
         success: function() {

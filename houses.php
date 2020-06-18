@@ -15,10 +15,10 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
-<link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
+<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="stylesheets/dlmenu-1.2.1.custom.css">
 <link href="stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -255,12 +255,12 @@
                         
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail"  href="http://localhost/sites/all/nordik/houses/Modern-compact-m.html" >
+                                <a class="house-thumbnail"  href="/houses/modern-compact-m" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/4%20-%20Elumaja%20%20Suvemaja%20118%20koos%20rodu%20ja%20eeskojaga_R1F_block.jpg')"></div>
                                 </a>
                                 
-                                <a   href=/houses-all/modern-compact-m"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-compact-m"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact M
                                     </h3>
@@ -315,12 +315,12 @@
                         
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail "  href="/houses/Modern-compact-l" >
+                                <a class="house-thumbnail "  href="/houses/modern-compact-l" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/4%20-%20Elumaja%20%20Suvemaja%20118%20koos%20rodu%20ja%20eeskojaga_R1F_block.jpg')"></div>
                                 </a>
                                 
-                                <a   href="/houses-all/modern-compact-l"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-compact-l"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact L
                                     </h3>
@@ -373,14 +373,14 @@
                         
                         
                         
-                        <!-- <div class="col-sm-4 js-single-house single-house">
+                        <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail "  href="/houses/Modern-compact-xl" >
+                                <a class="house-thumbnail "  href="/houses/modern-compact-xl" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/Elumaja%20%20Suvemaja%20118%20koos%20rodu%20ja%20eeskojaga_ModelR1-2_block.jpg')"></div>
                                 </a>
                                 
-                                <a   href="/houses/Modern-compact-xl"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-compact-xl"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact XL
                                     </h3>
@@ -428,19 +428,19 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                         
                         
                         
                         
-                        <!-- <div class="col-sm-4 js-single-house single-house">
+                        <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail "  href="/houses/Modern-compact-s-home" >
+                                <a class="house-thumbnail "  href="/houses/modern-compact-s-home" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/Suvemaja%2073R1_block.jpg')"></div>
                                 </a>
                                 
-                                <a   href="/houses/Modern-compact-s-home"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-compact-s-home"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact S Home
                                     </h3>
@@ -489,11 +489,11 @@
                                 </div>
                             </div>
                         </div>
-                         -->
                         
                         
                         
-                        <!-- <div class="col-sm-4 js-single-house single-house">
+                        
+                        <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
                                 <a class="house-thumbnail "  href="/houses/co2-emissions-a-label" >
                                     <div class="house-image-hover-bg"></div>
@@ -534,7 +534,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                         
                         
                         
@@ -590,14 +590,14 @@
                         <div class="user-added-content house-category-paragraph col-sm-12 js-group-content-area"></div>
                         
                         
-                        <!-- <div class="col-sm-4 js-single-house single-house">
+                        <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail "  href="/houses/Modern-mart" >
+                                <a class="house-thumbnail "  href="/houses/modern-mart" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-009-1_block.jpg')"></div>
                                 </a>
                                 
-                                <a   href="/houses/Modern-mart"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-mart"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Mart
                                     </h3>
@@ -645,19 +645,19 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                         
                         
                         
                         
-                        <!-- <div class="col-sm-4 js-single-house single-house">
+                        <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail "  href="/houses/Modern-panorama" >
+                                <a class="house-thumbnail "  href="/houses/modern-panorama" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/Copy%20of%20PanoramaR1_block.jpg')"></div>
                                 </a>
                                 
-                                <a   href="/houses/Modern-panorama"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-panorama"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Panorama
                                     </h3>
@@ -707,17 +707,17 @@
                             </div>
                         </div>
                         
-                         -->
+                        
                         
                         
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail "  href="/houses/Modern-beitostolen-l" >
+                                <a class="house-thumbnail "  href="/houses/modern-beitostolen-l" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/Beitostolen%20I%20floorR1Final%20(1)_block.png')"></div>
                                 </a>
                                 
-                                <a   href="/houses/Modern-beitostolen-l"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-beitostolen-l"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Beitostølen L
                                     </h3>
@@ -772,12 +772,12 @@
                         
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail "  href="/houses/Modern-beitostolen-xl" >
+                                <a class="house-thumbnail "  href="/houses/modern-beitostolen-xl" >
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"  style="background-image:url('//media.voog.com/0000/0039/4069/photos/Beitostolen%20II%20floorsR1Final%20(1)_block.png')"></div>
                                 </a>
                                 
-                                <a   href="/houses/Modern-beitostolen-xl"  class="house-title-link-wrap">
+                                <a   href="/houses/modern-beitostolen-xl"  class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Beitostølen XL
                                     </h3>
@@ -917,7 +917,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -935,7 +935,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 
@@ -1011,7 +1011,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -1032,7 +1032,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 

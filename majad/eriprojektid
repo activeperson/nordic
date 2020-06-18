@@ -22,10 +22,10 @@
 <!--[if lt IE 9]><link href="/stylesheets/ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
-<link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
+<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -130,7 +130,7 @@
 		        
 		            
 		            
-		                <li><a href="https://Modernhouses.eu/houses/special-projects"><div class="js-lang-title">English</div></a></li>
+		                <li><a href="https://Modernhouses.eu/special-projects"><div class="js-lang-title">English</div></a></li>
 		            
 		        
 		            
@@ -182,7 +182,7 @@
             <div class="misc-item misc-languages languages">
                 
                     
-                    <a href="https://Modernhouses.eu/houses/special-projects"><div class="js-lang-title">English</div></a>
+                    <a href="https://Modernhouses.eu/special-projects"><div class="js-lang-title">English</div></a>
                 
                     
                     <a href="https://Modernhouses.eu/majad/eriprojektid"><div class="js-lang-title">eesti keel</div></a>

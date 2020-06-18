@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="../stylesheets/default-skin.css">
         
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-<script src="../javascripts/redirects.js"></script>
+ 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -32,7 +32,7 @@
 <link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
 <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+ <link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -217,17 +217,17 @@
                             <div class="sidebar-process">
                             
                             
-                                <div class="sidebar-process-item">Enquiry<span class="sidebar-process-item-icon"></span></div>
+                                <div class="sidebar-process-item" style="height: 107px;">Enquiry<span class="sidebar-process-item-icon"></span></div>
                             
-                                <div class="sidebar-process-item">Offer<span class="sidebar-process-item-icon"></span></div>
+                                <div class="sidebar-process-item" style="height: 107px;">Offer<span class="sidebar-process-item-icon"></span></div>
                             
-                                <div class="sidebar-process-item">Technical and architectural drawings<span class="sidebar-process-item-icon"></span></div>
+                                <div class="sidebar-process-item" style="height: 107px;">Technical and architectural drawings<span class="sidebar-process-item-icon"></span></div>
                             
-                                <div class="sidebar-process-item">Signing a contract<span class="sidebar-process-item-icon"></span></div>
+                                <div class="sidebar-process-item" style="height: 107px;">Signing a contract<span class="sidebar-process-item-icon"></span></div>
                             
-                                <div class="sidebar-process-item">Production, transport and assembly<span class="sidebar-process-item-icon"></span></div>
+                                <div class="sidebar-process-item" style="height: 107px;">Production, transport and assembly<span class="sidebar-process-item-icon"></span></div>
                             
-                                <div class="sidebar-process-item">READY!<span class="sidebar-process-item-icon"></span></div>
+                                <div class="sidebar-process-item" style="height: 107px;">READY!<span class="sidebar-process-item-icon"></span></div>
                             
                             </div>
                         </div>
@@ -688,7 +688,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -706,7 +706,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 
@@ -782,7 +782,7 @@ Popular houses:</h3>
 
 
 
-<a href="/houses?Modern compact" target="_self">Modern Compact</a><br><a href="/houses?Modern concept" target="_self">Modern Concept</a><br><a href="/houses?standard houses" target="_self">Standard&nbsp;Houses</a><br>
+<a href="/houses" target="_self">Modern Compact</a><br><a href="/houses" target="_self">Modern Concept</a><br><a href="/houses" target="_self">Standard&nbsp;Houses</a><br>
 
 
 
@@ -803,7 +803,7 @@ Additional info:</h3>
 
 <a href="/majad/eriprojektid" target="_self"></a>
 
-<h2><span style="font-size: 14px;"><a href="/houses/special-projects" target="_self">Send a request</a></span></h2>
+<h2><span style="font-size: 14px;"><a href="/special-projects" target="_self">Send a request</a></span></h2>
 
 
 
