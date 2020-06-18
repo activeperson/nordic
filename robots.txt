@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Disallow: /files/
+Disallow: /photos/
+Disallow: /admin/
+
+sitemap: https://www.Modernhouses.eu/sitemap.xml
