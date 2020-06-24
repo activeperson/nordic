@@ -141,7 +141,7 @@
 				<div class="logo-wrap ">
 	<a class="logo-link" href="/">
 		
-				<img class="logo" src="/assets/Modern_houses_en.svg" alt="Modern Houses">
+				<img class="logo" src="images/logoo.svg" alt="Modern Houses">
 		
 	</a>
 </div>
@@ -174,7 +174,7 @@
     <div class="header-nav-bottom">
         <ul class="main-navigation">
             
-                <li class="menu-item active">
+                <li class="menu-item">
                     <a class="menu-link" href="/houses">Houses</a>
                 </li>
             

@@ -124,7 +124,7 @@
 				<div class="logo-wrap ">
 	<a class="logo-link" href="/">
 		
-				<img class="logo" src="/assets/Modern_houses_en.svg" alt="Modern Houses">
+				<img class="logo" src="/images/logoo.svg" alt="Modern Houses">
 		
 	</a>
 </div>
@@ -246,7 +246,7 @@ Contact us
                                             
                                         
                                         
-                                            <div class="contact-main-button-wrap">
+                                            <div class="contact-main-button-wrap" style="display: none;">
                                                 <button class="main-button js-show-form large" data-target=".js-contact-main-form">Contact us</button>
                                             </div>
                                         

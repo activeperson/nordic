@@ -144,7 +144,7 @@
               <div class="logo-wrap ">
                 <a class="logo-link" href="/">
 
-                  <img class="logo" src="assets/Modern_houses_en.svg" alt="Modern Houses">
+                  <img class="logo" src="images/logoo.svg" alt="Modern Houses">
 
                 </a>
               </div>
@@ -241,22 +241,7 @@
                       on the Swedish market.</p>
                     <h3>Compass<br></h3>
                     <p><br></p>
-                    <div class="edy-texteditor-container image-container" contenteditable="false" unselectable="on"
-                      style="width: auto; max-width: 100%; text-align: left; overflow: hidden; position: relative;"
-                      data-image-id="11074488">
-                      <div class="edy-padding-resizer-wrapper"
-                        style="padding-bottom: 80%; position: relative; overflow: hidden;">
-                        <picture title=""
-                          style="position: absolute; display: block; max-width: none; width: auto; height: 100%; left: -0.03%; top: 0px;">
-                          <!--[if IE 9]><video style="display: none;"><![endif]-->
-                          <source sizes="100vw"
-                            srcset="//media.voog.com/0000/0039/4069/photos/Copy%20of%20by%20the%20beach.png 945w, //media.voog.com/0000/0039/4069/photos/Copy%20of%20by%20the%20beach_block.png 600w">
-                          <!--[if IE 9]></video><![endif]-->
-                          <img src="//media.voog.com/0000/0039/4069/photos/Copy%20of%20by%20the%20beach_block.png"
-                            title="" alt="" style="position: absolute; max-width: none; width: auto; height: 100%;">
-                        </picture>
-                      </div>
-                    </div>
+                   
                     <p></p>
                     <p>World-renowned architect Louis Isadore Kahn, who has Estonian roots, once said: “Don’t build
                       buildings – design ways of living”. That’s our way of thinking, too: a building is a means to an

@@ -2,8 +2,8 @@
 <html class="public" lang="en">
     <head prefix="og: http://ogp.me/ns#">
         <!-- Core CSS file -->
-        <link rel="stylesheet" href="/stylesheets/photoswipe.css">
-        <link rel="stylesheet" href="stylesheets/default-skin.css">
+        <link rel="stylesheet" href="../stylesheets/photoswipe.css">
+        <link rel="stylesheet" href="../stylesheets/default-skin.css">
         
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
  
@@ -14,9 +14,9 @@
 
 
 
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="favicon.ico" type="image/ico">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/ico">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 
 
 
@@ -25,10 +25,10 @@
 <!--[if lt IE 9]><link href="/stylesheets/ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
-<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
+<link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -59,9 +59,9 @@
 
  
 <style>
-    .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna_huge.jpg');}
+    .main-bg {background-image:url('../images/bg-main.jpg');}
     @media(min-width: 768px) {
-        .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna.jpg');}
+        .main-bg {background-image:url('../images/bg-main.jpg');}
     }
 </style>
 
@@ -72,6 +72,8 @@
 
     
 <link href="//static.voog.com/libs/edicy-gallery/1.4.64/edicy-gallery.css" media="screen" rel="stylesheet" />
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>function vgReCaptchaDispatch(form_id) {var el = document.getElementById(form_id);if (el === null) return false;if (typeof window.CustomEvent === 'function') {var e = new CustomEvent('submit', {cancelable: true});el.dispatchEvent(e);if (e.defaultPrevented !== true) {el.submit();}} else {el.submit();}}</script>
 </head>
 
     <body class="js-bg-picker-area">
@@ -155,7 +157,7 @@
 				<div class="logo-wrap ">
 	<a class="logo-link" href="/">
 		
-				<img class="logo" src="/assets/Modern_houses_en.svg" alt="Modern Houses">
+				<img class="logo" src="../images/logoo.svg" alt="Modern Houses">
 		
 	</a>
 </div>
@@ -163,7 +165,7 @@
 			<div class="col-sm-8 hidden-xs">
 				<div class="header-nav">
     <div class="header-nav-top clearfix">
-        <div class="misc">
+        <div class="misc" style="display: none;">
             
             <div class="misc-item misc-languages languages">
                 
@@ -214,12 +216,24 @@
 	</div>
 </header>
 
-                <div class="main-content-inner main-content-inner-processed no-tree js-main-content-inner">
+                <div class="main-content-inner main-content-inner-processed  js-main-content-inner">
                     <div class="main-content-inner-sidebar processtree">
                         <div class="sidebar-process-wrap js-sidebar-process-desk">
                             <span class="sidebar-process-wrap-heading">Production process</span>
                             <div class="sidebar-process">
                             
+                            
+                                <div class="sidebar-process-item">Enquiry<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Offer<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Technical and architectural drawings<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Signing a contract<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Production, transport and assembly<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">READY!<span class="sidebar-process-item-icon"></span></div>
                             
                             </div>
                         </div>
@@ -228,7 +242,7 @@
                         <div class="row row-padding">
                             <div class="col-sm-8 col-sm-offset-4 bg-white">
                                 <h1 class="main-heading basic">
-                                    Modern Compact Kuusalu (Estonia)
+                                    Ogna Camp XXL (Norway)
                                 </h1>
                             </div>
                         </div>
@@ -240,10 +254,10 @@
                                 <div class="single-house-details right-content-padding js-right-content details">
                                     
                                     <div class="details-intro">
-                                        Photographer Sven-Olof Engund (XL-Studios) 
+                                        A project of Woodland AS, the developer and the main contractor for our long-term partner.
                                     </div>
                                     <div class="user-added-content user-added-content-padding-right user-added-content-padding-top">
-                                        
+                                        <p>A recreational housing complex in Norway which took first prize in the Pre-fab Building of the Year contest in 2015. The winning work comprises two-storey holiday homes with a floor area of 70-90 m2. The floor plans of the buildings, which have only minor variations and minimal dimensions, make rational and effective use of space. The entire complex was well-matched to its geographical context, with the buildings fitting in to the surrounding environment and their interiors designed to complement the external landscape. It’s worth mentioning here that the complex was designed by young Estonian architects from Trilog Studio.</p>
                                     </div>
                                 </div>
                             </div>
@@ -253,7 +267,7 @@
         <div class="gallery-video-lightbox js-gallery-video-lightbox"><div class="pswp__button pswp__button--close js-close-video-lightbox"></div></div>
         <div class="js-gallery-images">
             <!-- images will be added with javascript -->
-        </div>
+        <a class="js-gallery-image object-fit-cover gallery-image first" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2006.jpg" data-size="2600x1809"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2006_large.jpg"><div class="gallery-image-hover-bg"></div></div></a><div class="gallery-pages"><div class="js-gallery-pages gallery-images"><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2015.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2015_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2011.jpg" data-size="2600x1742"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2011_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2009.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2009_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2007.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2007_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2004.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2004_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2001.jpg" data-size="2600x1779"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2001_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2010.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2010_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2017.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2017_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2003.jpg" data-size="1420x2000"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2003_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2013.jpg" data-size="2600x1530"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2013_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2005.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2005_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2002.jpg" data-size="1543x2000"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2002_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2016.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2016_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2014.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2014_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2012.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Nordic%20Compact%2012_block.jpg"><div class="gallery-image-hover-bg"></div></div></a></div></div></div>
 
         <div class="gallery-video-container">
             <div class="js-gallery-video-thumbnail gallery-video-thumbnail">
@@ -351,8 +365,9 @@
     
 </div></div>
 
+<script>function onSubmitRc_form_157842(token) {vgReCaptchaDispatch("form_157842");}</script>
 <div class="form_submit">
-  <input class="form_submit_input" name="commit" type="submit" value="Send" />
+  <input class="form_submit_input g-recaptcha" data-action="vg_form" data-callback="onSubmitRc_form_157842" data-sitekey="6LfuuQAVAAAAAN7sQtqgWu6Q6kt_AXbEllVWOrHk" name="commit" type="submit" value="Send" />
 </div>
 </div>
 </form>
@@ -613,14 +628,16 @@ About us:</h3>
     modelName = true;
 </script>
 
- <script src="javascripts/jquery.js"></script>
-<script src="javascripts/bootstrap.min.js"></script>
-<script src="javascripts/velocity.min.js"></script>
-<script src="javascripts/modernizr-custom.js"></script>
-<script src="javascripts/jquery.viewport.mini.js"></script>
-<script src="javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
-<script src="javascripts/jquery.matchHeight.js"></script>
-<script src="javascripts/main.js?v=2"></script>
+ <script src="../javascripts/jquery.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="../javascripts/bootstrap.min.js"></script>
+<script src="../javascripts/velocity.min.js"></script>
+<script src="../javascripts/modernizr-custom.js"></script>
+<script src="../javascripts/jquery.viewport.mini.js"></script>
+<script src="../javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
+<script src="../javascripts/jquery.matchHeight.js"></script>
+<script src="../javascripts/main.js"></script>
 <script src="//static.voog.com/libs/picturefill/1.4.64/picturefill.min.js"></script>
 
 
@@ -642,10 +659,10 @@ About us:</h3>
  
 
 
-<!-- Core JS file --> <script src="javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="javascripts/photoswipe-ui-default.min.js"></script> <script src="javascripts/custom-photoswipe.js"></script>
+<!-- Core JS file --> <script src="../javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="../javascripts/photoswipe-ui-default.min.js"></script> <script src="../javascripts/custom-photoswipe.js"></script>
 
 
-<script src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script src="../javascripts/jquery.voogAjaxForm.js"></script>
 <script type="text/javascript">
     $('.js-sendto-google form').voogAjaxForm({
         success: function() {
@@ -673,7 +690,7 @@ About us:</h3>
 
 
             if (modelName === true || customProject === true) {
-                houseModel = 'Modern Compact Kuusalu (Estonia)';
+                houseModel = 'Ogna Camp XXL (Norway)';
                 if (!houseModel) {
                     houseModel = 'References';
                 }
@@ -811,7 +828,7 @@ About us:</h3>
 
         // add images
         $.ajax({
-            url: '/admin/api/elements/4803611/contents?name=house_gallery&content_type=gallery',
+            url: '/admin/api/elements/357068/contents?name=house_gallery&content_type=gallery',
             success: function(contentAreas){
                 if (contentAreas.length) {
                     $.each(contentAreas, function(i, contentArea){

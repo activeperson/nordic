@@ -2,8 +2,8 @@
 <html class="public" lang="en">
     <head prefix="og: http://ogp.me/ns#">
         <!-- Core CSS file -->
-        <link rel="stylesheet" href="/stylesheets/photoswipe.css">
-        <link rel="stylesheet" href="stylesheets/default-skin.css">
+        <link rel="stylesheet" href="../stylesheets/photoswipe.css">
+        <link rel="stylesheet" href="../stylesheets/default-skin.css">
         
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
  
@@ -14,9 +14,9 @@
 
 
 
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="favicon.ico" type="image/ico">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/ico">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 
 
 
@@ -25,10 +25,10 @@
 <!--[if lt IE 9]><link href="/stylesheets/ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
-<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
+<link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -59,9 +59,9 @@
 
  
 <style>
-    .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna_huge.jpg');}
+    .main-bg {background-image:url('../images/bg-main.jpg');}
     @media(min-width: 768px) {
-        .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna.jpg');}
+        .main-bg {background-image:url('../images/bg-main.jpg');}
     }
 </style>
 
@@ -157,7 +157,7 @@
 				<div class="logo-wrap ">
 	<a class="logo-link" href="/">
 		
-				<img class="logo" src="/assets/Modern_houses_en.svg" alt="Modern Houses">
+				<img class="logo" src="../images/logoo.svg" alt="Modern Houses">
 		
 	</a>
 </div>
@@ -165,7 +165,7 @@
 			<div class="col-sm-8 hidden-xs">
 				<div class="header-nav">
     <div class="header-nav-top clearfix">
-        <div class="misc">
+        <div class="misc" style="display: none;">
             
             <div class="misc-item misc-languages languages">
                 
@@ -216,12 +216,24 @@
 	</div>
 </header>
 
-                <div class="main-content-inner main-content-inner-processed no-tree js-main-content-inner">
+                <div class="main-content-inner main-content-inner-processed  js-main-content-inner">
                     <div class="main-content-inner-sidebar processtree">
                         <div class="sidebar-process-wrap js-sidebar-process-desk">
                             <span class="sidebar-process-wrap-heading">Production process</span>
                             <div class="sidebar-process">
                             
+                            
+                                <div class="sidebar-process-item">Enquiry<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Offer<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Technical and architectural drawings<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Signing a contract<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">Production, transport and assembly<span class="sidebar-process-item-icon"></span></div>
+                            
+                                <div class="sidebar-process-item">READY!<span class="sidebar-process-item-icon"></span></div>
                             
                             </div>
                         </div>
@@ -230,7 +242,7 @@
                         <div class="row row-padding">
                             <div class="col-sm-8 col-sm-offset-4 bg-white">
                                 <h1 class="main-heading basic">
-                                    Modern Compact Tallinn (Estonia)
+                                    Modern Mart (Estonia)
                                 </h1>
                             </div>
                         </div>
@@ -242,10 +254,10 @@
                                 <div class="single-house-details right-content-padding js-right-content details">
                                     
                                     <div class="details-intro">
-                                        Photographer Jakob Meier
+                                        We made this classic and stylish summer house for Mart Poom – the best Estonian footballer of all time – and his family.
                                     </div>
                                     <div class="user-added-content user-added-content-padding-right user-added-content-padding-top">
-                                        
+                                        <p>We used one of our most popular modular homes on the Norwegian market, giving it a slightly different appearance with the exterior colour and design, both of which are perfectly suited to the local environment and which were in line with the ideas and wishes of the client. The house is every inch the strongman, perfectly qualified to withstand the often harsh mountainous conditions of Norway, but at the same time it looks warm and cosy from the outside.</p><p>It’s a perfect example of how you can achieve the kind of personalised result a client’s looking for using a standardised model by combining a variety of design solutions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -255,7 +267,7 @@
         <div class="gallery-video-lightbox js-gallery-video-lightbox"><div class="pswp__button pswp__button--close js-close-video-lightbox"></div></div>
         <div class="js-gallery-images">
             <!-- images will be added with javascript -->
-        </div>
+        <a class="js-gallery-image object-fit-cover gallery-image first" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-009.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-009_large.jpg"><div class="gallery-image-hover-bg"></div></div></a><div class="gallery-pages"><div class="js-gallery-pages gallery-images"><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-028.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-028_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-006.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-006_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-015.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-015_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-003.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-003_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-023.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-023_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-027.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-027_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-025.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-025_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-034.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-034_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-035.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-035_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-029.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-029_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-013.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-013_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-001.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-001_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-008.jpg" data-size="2600x1733"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-008_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-012.jpg" data-size="1333x2000"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-012_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-017.jpg" data-size="1333x2000"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-017_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-019.jpg" data-size="1333x2000"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-019_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-016.jpg" data-size="1333x2000"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-DET-SUM-K%C3%A4mpinguranna%20(EE)-016_block.jpg"><div class="gallery-image-hover-bg"></div></div></a></div></div></div>
 
         <div class="gallery-video-container">
             <div class="js-gallery-video-thumbnail gallery-video-thumbnail">
@@ -616,14 +628,16 @@ About us:</h3>
     modelName = true;
 </script>
 
- <script src="javascripts/jquery.js"></script>
-<script src="javascripts/bootstrap.min.js"></script>
-<script src="javascripts/velocity.min.js"></script>
-<script src="javascripts/modernizr-custom.js"></script>
-<script src="javascripts/jquery.viewport.mini.js"></script>
-<script src="javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
-<script src="javascripts/jquery.matchHeight.js"></script>
-<script src="javascripts/main.js?v=2"></script>
+ <script src="../javascripts/jquery.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="../javascripts/bootstrap.min.js"></script>
+<script src="../javascripts/velocity.min.js"></script>
+<script src="../javascripts/modernizr-custom.js"></script>
+<script src="../javascripts/jquery.viewport.mini.js"></script>
+<script src="../javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
+<script src="../javascripts/jquery.matchHeight.js"></script>
+<script src="../javascripts/main.js"></script>
 <script src="//static.voog.com/libs/picturefill/1.4.64/picturefill.min.js"></script>
 
 
@@ -645,10 +659,10 @@ About us:</h3>
  
 
 
-<!-- Core JS file --> <script src="javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="javascripts/photoswipe-ui-default.min.js"></script> <script src="javascripts/custom-photoswipe.js"></script>
+<!-- Core JS file --> <script src="../javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="../javascripts/photoswipe-ui-default.min.js"></script> <script src="../javascripts/custom-photoswipe.js"></script>
 
 
-<script src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script src="../javascripts/jquery.voogAjaxForm.js"></script>
 <script type="text/javascript">
     $('.js-sendto-google form').voogAjaxForm({
         success: function() {
@@ -676,7 +690,7 @@ About us:</h3>
 
 
             if (modelName === true || customProject === true) {
-                houseModel = 'Modern Compact Tallinn (Estonia)';
+                houseModel = 'Modern Mart (Estonia)';
                 if (!houseModel) {
                     houseModel = 'References';
                 }
@@ -814,7 +828,7 @@ About us:</h3>
 
         // add images
         $.ajax({
-            url: '/admin/api/elements/4805092/contents?name=house_gallery&content_type=gallery',
+            url: '/admin/api/elements/357066/contents?name=house_gallery&content_type=gallery',
             success: function(contentAreas){
                 if (contentAreas.length) {
                     $.each(contentAreas, function(i, contentArea){

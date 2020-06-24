@@ -2,8 +2,8 @@
 <html class="public" lang="en">
     <head prefix="og: http://ogp.me/ns#">
         <!-- Core CSS file -->
-        <link rel="stylesheet" href="/stylesheets/photoswipe.css">
-        <link rel="stylesheet" href="stylesheets/default-skin.css">
+        <link rel="stylesheet" href="../stylesheets/photoswipe.css">
+        <link rel="stylesheet" href="../stylesheets/default-skin.css">
         
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
  
@@ -14,9 +14,9 @@
 
 
 
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="favicon.ico" type="image/ico">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/ico">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 
 
 
@@ -25,10 +25,10 @@
 <!--[if lt IE 9]><link href="/stylesheets/ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
-<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
+<link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -59,9 +59,9 @@
 
  
 <style>
-    .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna_huge.jpg');}
+    .main-bg {background-image:url('../images/bg-main.jpg');}
     @media(min-width: 768px) {
-        .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna.jpg');}
+        .main-bg {background-image:url('../images/bg-main.jpg');}
     }
 </style>
 
@@ -157,7 +157,7 @@
 				<div class="logo-wrap ">
 	<a class="logo-link" href="/">
 		
-				<img class="logo" src="/assets/Modern_houses_en.svg" alt="Modern Houses">
+				<img class="logo" src="../images/logoo.svg" alt="Modern Houses">
 		
 	</a>
 </div>
@@ -165,7 +165,7 @@
 			<div class="col-sm-8 hidden-xs">
 				<div class="header-nav">
     <div class="header-nav-top clearfix">
-        <div class="misc">
+        <div class="misc" style="display: none;">
             
             <div class="misc-item misc-languages languages">
                 
@@ -255,7 +255,7 @@
         <div class="gallery-video-lightbox js-gallery-video-lightbox"><div class="pswp__button pswp__button--close js-close-video-lightbox"></div></div>
         <div class="js-gallery-images">
             <!-- images will be added with javascript -->
-        </div>
+        <a class="js-gallery-image object-fit-cover gallery-image first" href="https://media.voog.com/0000/0039/4069/photos/TOMS7030-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7030-HDR.jpg"><div class="gallery-image-hover-bg"></div></div></a><div class="gallery-pages"><div class="js-gallery-pages gallery-images"><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS7038-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7038-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS7034-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7034-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS7022-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7022-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS7018-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7018-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS7014-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7014-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6934-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6934-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS7042-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7042-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6998-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6998-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6986-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6986-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS7002-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS7002-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6918-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6918-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6990-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6990-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6978-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6978-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6902-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6902-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6982-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6982-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/TOMS6962-HDR.jpg" data-size="1200x800"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/TOMS6962-HDR_block.jpg"><div class="gallery-image-hover-bg"></div></div></a></div></div></div>
 
         <div class="gallery-video-container">
             <div class="js-gallery-video-thumbnail gallery-video-thumbnail">
@@ -616,14 +616,16 @@ About us:</h3>
     modelName = true;
 </script>
 
- <script src="javascripts/jquery.js"></script>
-<script src="javascripts/bootstrap.min.js"></script>
-<script src="javascripts/velocity.min.js"></script>
-<script src="javascripts/modernizr-custom.js"></script>
-<script src="javascripts/jquery.viewport.mini.js"></script>
-<script src="javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
-<script src="javascripts/jquery.matchHeight.js"></script>
-<script src="javascripts/main.js?v=2"></script>
+ <script src="../javascripts/jquery.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="../javascripts/bootstrap.min.js"></script>
+<script src="../javascripts/velocity.min.js"></script>
+<script src="../javascripts/modernizr-custom.js"></script>
+<script src="../javascripts/jquery.viewport.mini.js"></script>
+<script src="../javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
+<script src="../javascripts/jquery.matchHeight.js"></script>
+<script src="../javascripts/main.js"></script>
 <script src="//static.voog.com/libs/picturefill/1.4.64/picturefill.min.js"></script>
 
 
@@ -645,10 +647,10 @@ About us:</h3>
  
 
 
-<!-- Core JS file --> <script src="javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="javascripts/photoswipe-ui-default.min.js"></script> <script src="javascripts/custom-photoswipe.js"></script>
+<!-- Core JS file --> <script src="../javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="../javascripts/photoswipe-ui-default.min.js"></script> <script src="../javascripts/custom-photoswipe.js"></script>
 
 
-<script src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script src="../javascripts/jquery.voogAjaxForm.js"></script>
 <script type="text/javascript">
     $('.js-sendto-google form').voogAjaxForm({
         success: function() {

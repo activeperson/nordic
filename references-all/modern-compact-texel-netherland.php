@@ -2,8 +2,8 @@
 <html class="public" lang="en">
     <head prefix="og: http://ogp.me/ns#">
         <!-- Core CSS file -->
-        <link rel="stylesheet" href="/stylesheets/photoswipe.css">
-        <link rel="stylesheet" href="stylesheets/default-skin.css">
+        <link rel="stylesheet" href="../stylesheets/photoswipe.css">
+        <link rel="stylesheet" href="../stylesheets/default-skin.css">
         
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
  
@@ -14,9 +14,9 @@
 
 
 
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="favicon.ico" type="image/ico">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/ico">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 
 
 
@@ -25,10 +25,10 @@
 <!--[if lt IE 9]><link href="/stylesheets/ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 <link rel="stylesheet" href="//static.voog.com/libs/edicy-search/latest/edicy-search.css">
-<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
+<link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
 <link rel="stylesheet" href="../stylesheets/dlmenu-1.2.1.custom.css">
  <link href="../stylesheets/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="../stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
 
 
 
@@ -59,9 +59,9 @@
 
  
 <style>
-    .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna_huge.jpg');}
+    .main-bg {background-image:url('../images/bg-main.jpg');}
     @media(min-width: 768px) {
-        .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna.jpg');}
+        .main-bg {background-image:url('../images/bg-main.jpg');}
     }
 </style>
 
@@ -157,7 +157,7 @@
 				<div class="logo-wrap ">
 	<a class="logo-link" href="/">
 		
-				<img class="logo" src="/assets/Modern_houses_en.svg" alt="Modern Houses">
+				<img class="logo" src="../images/logoo.svg" alt="Modern Houses">
 		
 	</a>
 </div>
@@ -165,7 +165,7 @@
 			<div class="col-sm-8 hidden-xs">
 				<div class="header-nav">
     <div class="header-nav-top clearfix">
-        <div class="misc">
+        <div class="misc" style="display: none;">
             
             <div class="misc-item misc-languages languages">
                 
@@ -216,24 +216,12 @@
 	</div>
 </header>
 
-                <div class="main-content-inner main-content-inner-processed  js-main-content-inner">
+                <div class="main-content-inner main-content-inner-processed no-tree js-main-content-inner">
                     <div class="main-content-inner-sidebar processtree">
                         <div class="sidebar-process-wrap js-sidebar-process-desk">
                             <span class="sidebar-process-wrap-heading">Production process</span>
                             <div class="sidebar-process">
                             
-                            
-                                <div class="sidebar-process-item">Enquiry<span class="sidebar-process-item-icon"></span></div>
-                            
-                                <div class="sidebar-process-item">Offer<span class="sidebar-process-item-icon"></span></div>
-                            
-                                <div class="sidebar-process-item">Technical and architectural drawings<span class="sidebar-process-item-icon"></span></div>
-                            
-                                <div class="sidebar-process-item">Signing a contract<span class="sidebar-process-item-icon"></span></div>
-                            
-                                <div class="sidebar-process-item">Production, transport and assembly<span class="sidebar-process-item-icon"></span></div>
-                            
-                                <div class="sidebar-process-item">READY!<span class="sidebar-process-item-icon"></span></div>
                             
                             </div>
                         </div>
@@ -242,7 +230,7 @@
                         <div class="row row-padding">
                             <div class="col-sm-8 col-sm-offset-4 bg-white">
                                 <h1 class="main-heading basic">
-                                    Ogna Camp XXL (Norway)
+                                    Modern Compact Texel (Netherland)
                                 </h1>
                             </div>
                         </div>
@@ -254,10 +242,10 @@
                                 <div class="single-house-details right-content-padding js-right-content details">
                                     
                                     <div class="details-intro">
-                                        A project of Woodland AS, the developer and the main contractor for our long-term partner.
+                                        
                                     </div>
                                     <div class="user-added-content user-added-content-padding-right user-added-content-padding-top">
-                                        <p>A recreational housing complex in Norway which took first prize in the Pre-fab Building of the Year contest in 2015. The winning work comprises two-storey holiday homes with a floor area of 70-90 m2. The floor plans of the buildings, which have only minor variations and minimal dimensions, make rational and effective use of space. The entire complex was well-matched to its geographical context, with the buildings fitting in to the surrounding environment and their interiors designed to complement the external landscape. It’s worth mentioning here that the complex was designed by young Estonian architects from Trilog Studio.</p>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -267,7 +255,7 @@
         <div class="gallery-video-lightbox js-gallery-video-lightbox"><div class="pswp__button pswp__button--close js-close-video-lightbox"></div></div>
         <div class="js-gallery-images">
             <!-- images will be added with javascript -->
-        </div>
+        <a class="js-gallery-image object-fit-cover gallery-image first" href="https://media.voog.com/0000/0039/4069/photos/v%C3%A4lisvaade%201-3.jpg" data-size="6712x4475"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/v%C3%A4lisvaade%201-3_large.jpg"><div class="gallery-image-hover-bg"></div></div></a><div class="gallery-pages"><div class="js-gallery-pages gallery-images"><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/V%C3%A4lisvaade%202.jpg" data-size="6668x4445"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/V%C3%A4lisvaade%202_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/v%C3%A4lisvaade%203-2.jpg" data-size="6668x4445"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/v%C3%A4lisvaade%203-2_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/perspektiiv%202-2.jpg" data-size="4369x6554"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/perspektiiv%202-2_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/sisevaade%204-1.jpg" data-size="4000x2667"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/sisevaade%204-1_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/sisevaade%202-1.jpg" data-size="6427x4285"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/sisevaade%202-1_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/sisevaade%203-1.jpg" data-size="6554x4369"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/sisevaade%203-1_block.jpg"><div class="gallery-image-hover-bg"></div></div></a><a class="js-gallery-image object-fit-cover gallery-image" href="https://media.voog.com/0000/0039/4069/photos/arh%20detail%201.jpg" data-size="6376x3586"><div class="gallery-image-abs"><img src="https://media.voog.com/0000/0039/4069/photos/arh%20detail%201_block.jpg"><div class="gallery-image-hover-bg"></div></div></a></div></div></div>
 
         <div class="gallery-video-container">
             <div class="js-gallery-video-thumbnail gallery-video-thumbnail">
@@ -628,14 +616,16 @@ About us:</h3>
     modelName = true;
 </script>
 
- <script src="javascripts/jquery.js"></script>
-<script src="javascripts/bootstrap.min.js"></script>
-<script src="javascripts/velocity.min.js"></script>
-<script src="javascripts/modernizr-custom.js"></script>
-<script src="javascripts/jquery.viewport.mini.js"></script>
-<script src="javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
-<script src="javascripts/jquery.matchHeight.js"></script>
-<script src="javascripts/main.js?v=2"></script>
+ <script src="../javascripts/jquery.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="../javascripts/bootstrap.min.js"></script>
+<script src="../javascripts/velocity.min.js"></script>
+<script src="../javascripts/modernizr-custom.js"></script>
+<script src="../javascripts/jquery.viewport.mini.js"></script>
+<script src="../javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
+<script src="../javascripts/jquery.matchHeight.js"></script>
+<script src="../javascripts/main.js"></script>
 <script src="//static.voog.com/libs/picturefill/1.4.64/picturefill.min.js"></script>
 
 
@@ -657,10 +647,10 @@ About us:</h3>
  
 
 
-<!-- Core JS file --> <script src="javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="javascripts/photoswipe-ui-default.min.js"></script> <script src="javascripts/custom-photoswipe.js"></script>
+<!-- Core JS file --> <script src="../javascripts/photoswipe.min.js"></script> <!-- UI JS file --> <script src="../javascripts/photoswipe-ui-default.min.js"></script> <script src="../javascripts/custom-photoswipe.js"></script>
 
 
-<script src="/javascripts/jquery.voogAjaxForm.js"></script>
+<script src="../javascripts/jquery.voogAjaxForm.js"></script>
 <script type="text/javascript">
     $('.js-sendto-google form').voogAjaxForm({
         success: function() {
@@ -688,7 +678,7 @@ About us:</h3>
 
 
             if (modelName === true || customProject === true) {
-                houseModel = 'Ogna Camp XXL (Norway)';
+                houseModel = 'Modern Compact Texel (Netherland)';
                 if (!houseModel) {
                     houseModel = 'References';
                 }
@@ -826,7 +816,7 @@ About us:</h3>
 
         // add images
         $.ajax({
-            url: '/admin/api/elements/357068/contents?name=house_gallery&content_type=gallery',
+            url: '/admin/api/elements/4805803/contents?name=house_gallery&content_type=gallery',
             success: function(contentAreas){
                 if (contentAreas.length) {
                     $.each(contentAreas, function(i, contentArea){

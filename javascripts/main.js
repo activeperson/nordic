@@ -6,6 +6,9 @@
     $('.js-main-content-area').css('min-height', contentMinHeight);
   });*/
 
+  $('.gallery-image').fancybox({
+    // Options will go here
+  });
   // Bunch 'o dropdown
   $('body').on('click', '.js-mob-menu-button', function() {
       $('.js-mob-menu').toggleClass('active');

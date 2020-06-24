@@ -29,12 +29,12 @@
     <title>References — Modern Houses</title>
     <style>
         .main-bg {
-            background-image: url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna_huge.jpg');
+            background-image: url('images/bg-main.jpg');
         }
 
         @media(min-width: 768px) {
             .main-bg {
-                background-image: url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna.jpg');
+                background-image: url('images/bg-main.jpg');
             }
         }
     </style>
@@ -51,7 +51,7 @@
 <body class="js-bg-picker-area">
     <div class="mob-menu js-mob-menu">
         <div class="mob-menu-inner">
-            <ul class="mob-menu-inner-list">
+            <ul class="mob-menu-inner-list">col-sm-4 js-single-house single-house
                 <li class="mob-menu-close js-mob-menu-close"></li>
 
                 <li class="mob-menu-item ">
@@ -138,7 +138,7 @@
                             <div class="logo-wrap ">
                                 <a class="logo-link" href="/">
 
-                                    <img class="logo" src="assets/Modern_houses_en.svg" alt="Modern Houses">
+                                    <img class="logo" src="images/logoo.svg" alt="Modern Houses">
 
                                 </a>
                             </div>
@@ -292,14 +292,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/Modern-mart-estonia">
+                                <a class="house-thumbnail" href="/references-all/modern-mart-estonia">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/Copy%20of%20MARF-EE-TRD-CBN-LIV-PRC-SPC-FIN-EXT-SUM-K%C3%A4mpinguranna%20(EE)-009-1_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/Modern-mart-estonia" class="house-title-link-wrap">
+                                <a href="/references-all/modern-mart-estonia" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Mart (Estonia)
                                     </h3>
@@ -336,14 +336,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/Modern-compact-norway">
+                                <a class="house-thumbnail" href="/references-all/modern-compact-norway">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/Copy%20of%20IMG_4195_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/Modern-compact-norway" class="house-title-link-wrap">
+                                <a href="/references-all/modern-compact-norway" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Ogna Camp XXL (Norway)
                                     </h3>
@@ -380,14 +380,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/buen-stav-and-laft-norway">
+                                <a class="house-thumbnail" href="/references-all/buen-stav-and-laft-norway">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/DSC_6382_block.JPG')">
                                     </div>
                                 </a>
 
-                                <a href="/references/buen-stav-and-laft-norway" class="house-title-link-wrap">
+                                <a href="/references-all/buen-stav-and-laft-norway" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Buen Stav&Laft (Norway)
                                     </h3>
@@ -424,14 +424,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/buen-popular-norway">
+                                <a class="house-thumbnail" href="/references-all/buen-popular-norway">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/Buen%20Popular%20NO%20Maris%20Tomba%2012-1_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/buen-popular-norway" class="house-title-link-wrap">
+                                <a href="/references-all/buen-popular-norway" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Buen Popular (Norway)
                                     </h3>
@@ -467,14 +467,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/buen-storodde-norway">
+                                <a class="house-thumbnail" href="/references-all/buen-storodde-norway">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/MARF-NO-TRD-CBN-PRC-POP-STORODDE-FIN-EXT-SUM-001_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/buen-storodde-norway" class="house-title-link-wrap">
+                                <a href="/references-all/buen-storodde-norway" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Buen Storodde (Norway)
                                     </h3>
@@ -512,14 +512,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/buen-popular-sweden">
+                                <a class="house-thumbnail" href="/references-all/buen-popular-sweden">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/Lirypa%20S%20Visningshytte%20Aspen%201.4.008-1_block.JPG')">
                                     </div>
                                 </a>
 
-                                <a href="/references/buen-popular-sweden" class="house-title-link-wrap">
+                                <a href="/references-all/buen-popular-sweden" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Buen Popular (Sweden)
                                     </h3>
@@ -565,14 +565,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/Modern-compact-texel-netherland">
+                                <a class="house-thumbnail" href="/references-all/modern-compact-texel-netherland">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/v%C3%A4lisvaade%201-3_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/Modern-compact-texel-netherland" class="house-title-link-wrap">
+                                <a href="/references-all/modern-compact-texel-netherland" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact Texel (Netherland)
                                     </h3>
@@ -631,14 +631,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/Modern-compact-salmistu">
+                                <a class="house-thumbnail" href="/references-all/modern-compact-salmistu">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/_XLS5606_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/Modern-compact-salmistu" class="house-title-link-wrap">
+                                <a href="/references-all/modern-compact-salmistu" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact Kuusalu (Estonia)
                                     </h3>
@@ -674,14 +674,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/fagerheim-compact-norway">
+                                <a class="house-thumbnail" href="/references-all/fagerheim-compact-norway">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/11_fasade_23_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/fagerheim-compact-norway" class="house-title-link-wrap">
+                                <a href="/references-all/fagerheim-compact-norway" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact Telemark (Norway)
                                     </h3>
@@ -717,14 +717,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/Modern-compact-keila-estonia">
+                                <a class="house-thumbnail" href="/references-all/modern-compact-keila-estonia">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/TOMS7030-HDR_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/Modern-compact-keila-estonia" class="house-title-link-wrap">
+                                <a href="/references-all/modern-compact-keila-estonia" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact Keila (Estonia)
                                     </h3>
@@ -760,14 +760,14 @@
 
                         <div class="col-sm-4 js-single-house single-house">
                             <div class="house-block">
-                                <a class="house-thumbnail" href="/references/Modern-compact-sule-estonia">
+                                <a class="house-thumbnail" href="/references-all/modern-compact-sule-estonia">
                                     <div class="house-image-hover-bg"></div>
                                     <div class="house-thumbnail-img"
                                         style="background-image:url('//media.voog.com/0000/0039/4069/photos/timemedia.ee-2_block.jpg')">
                                     </div>
                                 </a>
 
-                                <a href="/references/Modern-compact-sule-estonia" class="house-title-link-wrap">
+                                <a href="/references-all/modern-compact-sule-estonia" class="house-title-link-wrap">
                                     <h3 class="house-title">
                                         Modern Compact Tallinn (Estonia)
                                     </h3>

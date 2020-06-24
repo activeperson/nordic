@@ -11,9 +11,9 @@
 
 
 
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="favicon.ico" type="image/ico">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../avicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/ico">
+  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 
 
 
@@ -56,9 +56,9 @@
 
  
 <style>
-    .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna_huge.jpg');}
+    .main-bg {background-image:url('../images/bg-main.jpg');}
     @media(min-width: 768px) {
-        .main-bg {background-image:url('//media.voog.com/0000/0039/4069/photos/esilehe%20pilt%20Ogna.jpg');}
+        .main-bg {background-image:url('../images/bg-main.jpg');}
     }
 </style>
 
@@ -161,7 +161,7 @@
 				<div class="logo-wrap ">
 	<a class="logo-link" href="/">
 		
-				<img class="logo" src="/assets/Modern_houses_en.svg" alt="Modern Houses">
+				<img class="logo" src="../images/logoo.svg" alt="Modern Houses">
 		
 	</a>
 </div>
@@ -583,13 +583,15 @@ About us:</h3>
 
 
  <script src="../javascripts/jquery.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 <script src="../javascripts/bootstrap.min.js"></script>
 <script src="../javascripts/velocity.min.js"></script>
 <script src="../javascripts/modernizr-custom.js"></script>
 <script src="../javascripts/jquery.viewport.mini.js"></script>
 <script src="../javascripts/jquery.dlmenu-1.2.1.custom.js"></script>
 <script src="../javascripts/jquery.matchHeight.js"></script>
-<script src="../javascripts/main.js?v=2"></script>
+<script src="../javascripts/main.js"></script>
 <script src="//static.voog.com/libs/picturefill/1.4.64/picturefill.min.js"></script>
 
 
